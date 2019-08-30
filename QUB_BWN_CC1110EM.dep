@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>2054701218</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\library\source\DMAradio.c</file>
+            <file>$PROJ_DIR$\..\..\library\source\hal_adc_mgmt.c</file>
+            <file>$PROJ_DIR$\..\..\library\source\hal_bui_lcd.c</file>
+            <file>$PROJ_DIR$\..\..\library\source\hal_power_clk_mgmt.c</file>
+            <file>$PROJ_DIR$\QUB_BWN_Ctrl.c</file>
+            <file>$PROJ_DIR$\..\..\library\source\Radio.c</file>
+            <file>$PROJ_DIR$\..\..\library\source\wdt.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\DMAradio.pbi</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_cc8051.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DMAradio.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\QUB_BWN_Ctrl.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_bui_lcd.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\QUB_BWN_CC1110EM.hex</file>
+            <file>$PROJ_DIR$\Debug\Obj\QUB_BWN_Ctrl.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\QUB_BWN_Node.r51</file>
+            <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+            <file>$PROJ_DIR$\..\..\library\header\rnd.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\QUB_BWN_Node.pbi</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_defs.h</file>
+            <file>$PROJ_DIR$\..\..\library\header\Power_Mode.h</file>
+            <file>$PROJ_DIR$\QUB_BWN_Node.c</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_io_mgmt.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\wdt.pbi</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_bui_lcd.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_power_clk_mgmt.r51</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_main.h</file>
+            <file>$PROJ_DIR$\..\..\library\header\wdt.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Radio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\Radio.r51</file>
+            <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_cc1110F32.xcl</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_interrupt_mgmt.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\wdt.r51</file>
+            <file>$PROJ_DIR$\Debug\Exe\QUB_BWN_CC1110EM.d51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc_mgmt.r51</file>
+            <file>$PROJ_DIR$\..\..\library\header\DMAradio.h</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_defines.h</file>
+            <file>$TOOLKIT_DIR$\lib\clib\cl-pli-nlxd-1e16x01.r51</file>
+            <file>$PROJ_DIR$\..\..\library\header\clock.h</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_power_clk_mgmt.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\QUB_BWN_CC1110EM.pbd</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_types.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_power_clk_mgmt.pbi</file>
+            <file>$PROJ_DIR$\..\..\library\header\ioCCxx10_bitdef.h</file>
+            <file>$PROJ_DIR$\..\..\library\header\hal_adc_mgmt.h</file>
+            <file>$PROJ_DIR$\Debug\List\QUB_BWN_CC1110EM.html</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_bui_lcd.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc_mgmt.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+            <file>$PROJ_DIR$\..\..\library\header\ioCC1110.h</file>
+            <file>$PROJ_DIR$\..\..\library\header\Radio.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\library\source\DMAradio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 9</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 7</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 26 36 21 39 31 44 49 35 50 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 26 50 21 35 36 39 44 49 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\library\source\hal_adc_mgmt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 44 26 36 21 39 31 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39 49 36 44 26 21 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\library\source\hal_bui_lcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 26 36 21 39 31 44 49 23</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 26 21 23 36 39 44 49</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\library\source\hal_power_clk_mgmt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 25</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 39 26 36 21 31 44 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26 39 49 36 44 21 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\QUB_BWN_Ctrl.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 50 35 36 43 26 21 39 31 44 49 19 41 18 8 27 16 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\library\source\Radio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 26 36 21 39 31 44 49 50 35 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44 26 36 39 49 50 21 31 35 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\library\source\wdt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 49 41 18 8 43 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43 49 18 41 8 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\QUB_BWN_Node.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 17</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 15 48 24 50 35 36 43 26 21 39 31 44 49 19 41 18 8 27 16 38 23</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 15 48 24 50 35 36 43 26 21 39 31 44 49 19 41 18 8 27 16 38 23</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\QUB_BWN_CC1110EM.d51</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 45 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 30 9 10 29 34 46 25 32 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 45 12 33</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>XLINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
